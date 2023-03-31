@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kgaurav152
 - 👀 I’m interested in Solidity.
 - 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on project based on Frontend(Html, CSS, JS), React, React Native as well as projects which involves Web3. 
+- 💞️ I’m looking to collaborate on project based on Frontend(Html, CSS, JS), React, React Native as well as projects based on Web3. 
 - 📫 How to reach me by mailing me at kgaurav152@gmail.com or  [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40kgaurav152)](https://twitter.com/kgaurav152)
 
 - My Skills :
